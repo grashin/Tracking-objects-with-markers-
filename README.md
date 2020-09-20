@@ -1,2 +1,2 @@
 # Tracking-objects-with-markers-
-Recognition and tracking object with Aruco markers
+This method allows to recognize and track Aruco markers, which put or glued on objects. Crane or hand can form levels of that objects. Algorithm output and save information about levels and ids of objects.  
